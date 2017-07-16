@@ -1,0 +1,6 @@
+D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\bin\Debug\Minedraft.exe.config
+D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\bin\Debug\Minedraft.exe
+D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\bin\Debug\Minedraft.pdb
+D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\obj\Debug\Minedraft.exe
+D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\obj\Debug\Minedraft.pdb
