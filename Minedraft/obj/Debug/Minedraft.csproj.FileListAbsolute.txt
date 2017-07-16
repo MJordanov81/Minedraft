@@ -4,3 +4,9 @@ D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\bin\Debug\Minedraft.pdb
 D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
 D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\obj\Debug\Minedraft.exe
 D:\SOFTUNI\C# fundamentals\Exam16072017\Minedraft\obj\Debug\Minedraft.pdb
+D:\GitHub\Minedraft\Minedraft\bin\Debug\Minedraft.exe.config
+D:\GitHub\Minedraft\Minedraft\bin\Debug\Minedraft.exe
+D:\GitHub\Minedraft\Minedraft\bin\Debug\Minedraft.pdb
+D:\GitHub\Minedraft\Minedraft\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+D:\GitHub\Minedraft\Minedraft\obj\Debug\Minedraft.exe
+D:\GitHub\Minedraft\Minedraft\obj\Debug\Minedraft.pdb

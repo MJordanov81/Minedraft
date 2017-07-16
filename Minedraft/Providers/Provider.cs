@@ -6,7 +6,7 @@ public abstract class Provider : Machine
     private string id;
     private double energyOutput;
 
-    public Provider(string id, double energyOutput):
+    protected Provider(string id, double energyOutput):
         base (id)
     {
         this.EnergyOutput = energyOutput;
